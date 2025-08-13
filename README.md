@@ -1,5 +1,5 @@
 # Hi, I'm Pravesh Kaji Budhathoki 👋
-**Problem Solver | Innovator | Machine Learning Engineer**
+**AI | Machine Learning | GenAI | NLP | Computer Vision**
 
 📧 [budhathokipravesh5@gmail.com](mailto:budhathokipravesh5@gmail.com)  
 📱 +977 9860073530  
@@ -9,9 +9,9 @@
 
 ## 🚀 Skills
 - **Languages & Libraries:** Python (OOP), Scikit-Learn, NumPy, Pandas, Matplotlib
-- **Machine Learning & AI:** Deep Learning, Machine Learning Algorithms, RAG architecture
+- **Machine Learning & AI:** Deep Learning, Machine Learning Algorithms, RAG architecture, LLM, Transformers
 - **Frameworks:** PyTorch, TensorFlow/Keras, YOLO, RCNNs, ResNet-50, Inception, EfficientNet
-- **Tools & Platforms:** Docker, Kafka, Protobuf, gRPC, Redis
+- **Tools & Platforms:** Docker, Kafka, Protobuf, gRPC, Redis, FastAPI, Vector Database, Sqlite
 - **Other Expertise:** OCR, Face Recognition, Object Detection, Video Analytics
 
 ---
@@ -36,13 +36,13 @@
   - Integrated with Nepal Police detainee record system.
 
 - **Monkey Detection Model**  
-  - YOLOv7 model with **85% recall, 82% precision**, showcased at *Suryabanayak Krishi Mahotsab*.
+  - YOLOv7 model with **85% recall, 82% precision**, showcased at *Suryabanayak Krishi Mahotsab* detecting animals.
 
 - **Other Contributions**  
   - Face authentication on Orange Pi devices (National Police Academy).  
   - In-house Video Analytics (Treelytics) for multi-stream person tracking + demographics.  
   - OCR service pipeline optimization for printed English text.  
-  - Integrated 3rd-party AI models (OpenAI, Google, AWS).  
+  - Integrated 3rd-party AI models (OpenAI, Google, AWS) for text generation, image generation, code generation.  
   - Built AI Agent with LangChain & async OpenAI API calls.
 
 ---
